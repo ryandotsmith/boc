@@ -1,5 +1,3 @@
-# BOC(1)
-
 ```
 $ export DATABASE_URL=postgres://user:pass@localhost/dbname
 $ export PORT=8080
